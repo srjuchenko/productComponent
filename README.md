@@ -6,7 +6,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Link
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://sr-product-component.netlify.app)
 
 ### Built with
 
